@@ -1,5 +1,5 @@
 # be-the-hero
-Node/React
+Construindo durante a semana da Omnistack 11.0
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
