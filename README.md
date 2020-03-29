@@ -21,8 +21,7 @@ Frontend: ReactJs<br>
 Mobile: ReactNative & Expo<br>
 
 Banco de dados com knex.js e SQLite.<br>
-Bibliotecas utilizadas: express, axios, react-router-dom, react-icon, celebrate<br>
-Ferramentas: Nodemon<br>
+Bibliotecas utilizadas: express, axios, react-router-dom, react-icon, celebrate, nodemon, jest, supertest, cors. <br>
 Métodos HTTP: get, post, put, delete<br>
 Gerenciador de bibliotecas: npm e yarn
 
