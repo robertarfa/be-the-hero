@@ -1,25 +1,28 @@
-# be-the-hero
+ be-the-hero
 Construído durante a semana da Omnistack 11.0
 
 # Semana OmniStack11 by [Rocketseat](https://github.com/Rocketseat)
 
-> Aplicação que liga pessoas com vontade de ajudar __financeiramente__ organizações não governamentais (ONGs) <br>
+https://github.com/robertarfa/be-the-hero/tree/master/frontend/src/assets/heroes.png
 
 #### O Projeto
 <p align="justify">
-  Como existem ONGs com baixa visibilidade, a <a href="https://github.com/Rocketseat">Rocketseat</a> propoem
-uma ideia social para esta versão da OmniStack11 que é tornar cada vez mais acessivel o conhecimento
-sobre as ONGs existentes, seja no bairro, cidade, estado ou país. Possíbilitando a interação entre
-pessoas comuns e as necessidades de cada ONG.
+  > Construção de página web, banco de dados e aplicativo que podem ser utilizados por ONGs para encontrar parceiros que queiram ajudar financeiramente<br>
 </p>
 <hr>
 
 #### Tecnologias
 
-Como sabemos, esta __stack__ é baseada em tecnologias vindas do __JavaScript__:
+Baseado em tecnologias vindas do __JavaScript__:
 
-_Backend:_ ``` NodeJs ```<br>
-_Frontend:_ ``` ReactJs ```<br>
-_Mobile:_ ``` ReactNative & Expo```<br>
+#### Linguagens
+Backend: NodeJs<br>
+Frontend: ReactJs<br>
+Mobile: ReactNative & Expo<br>
 
-Todos os dados serão armazenados em banco __SQL__ relacional ( __SQLite__ ).
+Banco de dados com knex.js e SQLite.
+Bibliotecas utilizadas: express, axios, react-router-dom, react-icon, celebrate
+Ferramentas: Nodemon
+Métodos HTTP: get, post, put, delete
+
+
