@@ -3,7 +3,7 @@ Construído durante a semana da Omnistack 11.0
 
 # Semana OmniStack11 by [Rocketseat](https://github.com/Rocketseat)
 
-<img width="460" height="300" src="https://github.com/robertarfa/be-the-hero/tree/master/frontend/src/assets/heroes.png>
+<img width="460" height="300" src="https://github.com/robertarfa/be-the-hero/tree/master/frontend/src/assets/heroes.png">
 
 #### O Projeto
 <p align="justify">
