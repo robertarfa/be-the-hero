@@ -17,11 +17,11 @@ describe('ONG', () => {
         .post('/ongs')
         //.set('Authorization', 'id da ong')
         .send({
-            name: "TEste 1",
+            name: "ONG 2803",
             email: "contato@email.com",
-            whatsapp: "44999600851",
-            city: "Luiziana",
-            uf: "PR"
+            whatsapp: "11955550000",
+            city: "São Paulo",
+            uf: "SP"
         });
 
         expect(response.body).toHaveProperty('id');
