@@ -3,8 +3,6 @@ Construído durante a semana da Omnistack 11.0
 
 # Semana OmniStack11 by [Rocketseat](https://github.com/Rocketseat)
 
-<img width="460" height="300" src="frontend/src/assets/heroes.png">
-
 #### O Projeto
 <p align="justify">
   > Construção de página web, banco de dados e aplicativo que podem ser utilizados por ONGs para encontrar parceiros que queiram ajudar financeiramente<br>
@@ -25,4 +23,7 @@ Bibliotecas utilizadas: express, axios, react-router-dom, react-icon, celebrate,
 Métodos HTTP: get, post, put, delete<br>
 Gerenciador de bibliotecas: npm e yarn
 
-
+<src="frontend/src/assets/print1.jpg">
+<src="frontend/src/assets/print2.jpg">
+<src="frontend/src/assets/print3.jpg">
+<src="frontend/src/assets/print4.jpg">
