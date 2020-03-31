@@ -23,7 +23,7 @@ Bibliotecas utilizadas: express, axios, react-router-dom, react-icon, celebrate,
 Métodos HTTP: get, post, put, delete<br>
 Gerenciador de bibliotecas: npm e yarn
 
-<src="frontend/src/assets/print1.jpg">
-<src="frontend/src/assets/print2.jpg">
-<src="frontend/src/assets/print3.jpg">
-<src="frontend/src/assets/print4.jpg">
+<img src="frontend/src/assets/print1.jpg">
+<img src="frontend/src/assets/print2.jpg">
+<img src="frontend/src/assets/print3.jpg">
+<img src="frontend/src/assets/print4.jpg">
